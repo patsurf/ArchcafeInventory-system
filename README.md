@@ -1,1 +1,2 @@
-# ArchcafeInventory-system
+# Arch cafe inventory management system
+the software, “Arch café Inventory Management System and sales system”, is used for recording the information about the day-to-day transaction of stocks of an organization. It stores purchase information of the products from the supplier. Similarly, it stores sales information about the customers. If a product is purchased, then the related information is stored in stocks, that is, stocks are up to date. Another part is it prepares sales report after product is sold. In the sales information, the information about who sold the product is also kept, so there is no problem for misunderstandings in future.
